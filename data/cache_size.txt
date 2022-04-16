@@ -1,0 +1,11 @@
+array size 4, round num 100000000, time: 108.613ms
+array size 8, round num 100000000, time: 100.955ms
+array size 16, round num 100000000, time: 104.338ms
+array size 32, round num 100000000, time: 100.58ms
+array size 64, round num 100000000, time: 110.627ms
+array size 128, round num 100000000, time: 107.529ms
+array size 256, round num 100000000, time: 114.291ms
+array size 512, round num 100000000, time: 137.238ms
+array size 1024, round num 100000000, time: 187.619ms
+array size 2048, round num 100000000, time: 204.961ms
+array size 4096, round num 100000000, time: 238.644ms

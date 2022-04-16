@@ -1,0 +1,7 @@
+step size 4, round num 200000000, time: 265.456ms
+step size 8, round num 200000000, time: 268.122ms
+step size 16, round num 200000000, time: 294.082ms
+step size 32, round num 200000000, time: 300.838ms
+step size 64, round num 200000000, time: 324.736ms
+step size 128, round num 200000000, time: 420.696ms
+step size 256, round num 200000000, time: 372.732ms

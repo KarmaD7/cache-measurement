@@ -1,0 +1,7 @@
+n 2, round num 200000000, time: 253.99ms
+n 3, round num 200000000, time: 248.334ms
+n 4, round num 200000000, time: 242.453ms
+n 5, round num 200000000, time: 548.447ms
+n 6, round num 200000000, time: 322.653ms
+n 7, round num 200000000, time: 283.999ms
+n 8, round num 200000000, time: 278.239ms
