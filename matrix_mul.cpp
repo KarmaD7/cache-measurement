@@ -36,10 +36,14 @@ int main() {
 	// Todo: Your optimized code:
 	//======================================================
 	start = clock();
-	for (i = 0; i < MATRIX_SIZE; i ++)
-		for (j = 0; j < MATRIX_SIZE; j ++)
-			for (k = 0; k < MATRIX_SIZE; k ++)
-				d[i][j] += a[i][k] * b[k][j];
+	for (k = 0; k < MATRIX_SIZE; ++k) {
+		for (i = 0; i < MATRIX_SIZE; ++i) {
+			register int r = a[i][k];
+			for (j = 0; j < MATRIX_SIZE; ++j) {
+				d[i][j] += r * b[k][j];
+			}
+		}
+	}
 	// Stop here.
 	//======================================================
     

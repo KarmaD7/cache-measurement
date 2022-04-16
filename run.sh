@@ -1,4 +1,4 @@
-ROUND=200000000
+ROUND=500000000
 
 # ./measure $ROUND 16
 # ./measure $ROUND 32
